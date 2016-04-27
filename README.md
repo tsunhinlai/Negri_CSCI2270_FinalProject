@@ -12,14 +12,22 @@ Progression of the Game:
 1. Player 1 Look at your cards.
 2. Player 2 look at your cards.
 3. Player 1 make a bet based on your two cards and the three on the table. Remember, you are betting based on the hand you have with the three on the table combined with your two. (Think five card poker). If you do not want to bet at this moment press 0 and the betting will move on to player2.
-4. Player 2 does the same thing. Player 2, you must bet at least the same or more than player1. If you do not want to bet either press 0 and it will move onto the next round.
+4. Player 2 does the same thing. Player 2, you must bet at least the same or more than player1. If you do not want to bet either press 0 and it will move onto the next round. If player2 bets more than player1 then player1 will be asked to be again. This will go back and forth until they match their bets.
 5. The same thing will happen two more times. Each time one more card will be added to the three cards on the table. Remember, any combination you can make with your two cards and the 3, 4, or 5 cards on the table is valid.
 6. If anyone folds at any point the other person wins.
-7. Whoever has the better cards at the end wins the money in the pot.(See rules of Texas Hold'em)
+7. Whoever has the better hand at the end wins the money in the pot.
 
 INSTRUCTIONS ON HOW TO RUN:
 
-Basically, just run the main file and there are instructions within the program. One thing to pay attention to is when it asks you to see your cards, make sure when it says to enter in a number you do so, otherwise it will automatically skip to the end and you wont get to play :/. This also only happens the first time.
+Basically, just run the main file and instructions will be given as the program runs. One thing to pay attention to is sometimes it asks you to enter a number and other times it asks you to enter in anything. Please do so otherwise to program will skip to the end and you won't get to play :/.
+
+GROUP MEMBERS:
+
+Just me.
+
+OTHER CONTRIBUTORS:
+
+None.
 
 
 
