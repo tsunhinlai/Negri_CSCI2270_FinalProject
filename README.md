@@ -7,7 +7,11 @@ This program is a simplified version of Texas Hold'em, where there are only two 
 Note: Keep in mind when playing the game that the program only checks pairs based on if they are pairs or not. If both players have a pair/three of a kind/full house, they are considered to be the same. This is not how traditional Texas Hold'em is played. Also keep in mind that the program only checks for these things and does not check for flush, royal flush, 4 of a kind, straight. These are things you could add.
 
 Dependencies
+None.
 
+System Requirements:
+Runs on any Unix based system.
+VM, OSX, Windows.
 
 Progression of the Game:
 
