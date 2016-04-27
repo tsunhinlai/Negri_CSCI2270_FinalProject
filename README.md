@@ -32,7 +32,8 @@ None.
 OPEN ISSUES/BUGS:
 
 Sometimes it asks the user to enter in a number when it should work for any input.
-Only checks for pairs, three of a kind, and full house. You could program straight, flush, four of a kind, and/or royal flush
+Only checks for pairs, three of a kind, and full house. You could program straight, flush, four of a kind, and/or royal flush.
+If players both have a pair, three of a kind, or full house then they tie. 
 Lacks a method for checking which hand is better (get rid of if statements at end of driver)
 Does not allow for multiple games in the same run.
 
