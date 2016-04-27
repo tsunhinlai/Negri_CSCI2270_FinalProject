@@ -25,7 +25,7 @@ Progression of the Game:
 
 INSTRUCTIONS ON HOW TO RUN:
 
-Basically, just run the main file and instructions will be given as the program runs. One thing to pay attention to is sometimes it asks you to enter a number and other times it asks you to enter in anything. Please enter inputs accordingly otherwise to program will skip to the end and you won't get to play :/.
+Even though the file says "Five Card Poker", it is Texas Hold'em. Basically, just run the main file and instructions will be given as the program runs. One thing to pay attention to is sometimes it asks you to enter a number and other times it asks you to enter in anything. Please enter inputs accordingly otherwise to program will skip to the end and you won't get to play :/.
 
 GROUP MEMBERS:
 
